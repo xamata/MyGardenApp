@@ -1,0 +1,17 @@
+C:\Users\Maxmi\Documents\Github\Visual Studio\.NET Core\MyGardenApp\bin\Debug\net6.0\MyGardenApp.exe
+C:\Users\Maxmi\Documents\Github\Visual Studio\.NET Core\MyGardenApp\bin\Debug\net6.0\MyGardenApp.deps.json
+C:\Users\Maxmi\Documents\Github\Visual Studio\.NET Core\MyGardenApp\bin\Debug\net6.0\MyGardenApp.runtimeconfig.json
+C:\Users\Maxmi\Documents\Github\Visual Studio\.NET Core\MyGardenApp\bin\Debug\net6.0\MyGardenApp.dll
+C:\Users\Maxmi\Documents\Github\Visual Studio\.NET Core\MyGardenApp\bin\Debug\net6.0\MyGardenApp.pdb
+C:\Users\Maxmi\Documents\Github\Visual Studio\.NET Core\MyGardenApp\obj\Debug\net6.0\MyGardenApp.csproj.AssemblyReference.cache
+C:\Users\Maxmi\Documents\Github\Visual Studio\.NET Core\MyGardenApp\obj\Debug\net6.0\MyGardenApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxmi\Documents\Github\Visual Studio\.NET Core\MyGardenApp\obj\Debug\net6.0\MyGardenApp.AssemblyInfoInputs.cache
+C:\Users\Maxmi\Documents\Github\Visual Studio\.NET Core\MyGardenApp\obj\Debug\net6.0\MyGardenApp.AssemblyInfo.cs
+C:\Users\Maxmi\Documents\Github\Visual Studio\.NET Core\MyGardenApp\obj\Debug\net6.0\MyGardenApp.csproj.CoreCompileInputs.cache
+C:\Users\Maxmi\Documents\Github\Visual Studio\.NET Core\MyGardenApp\obj\Debug\net6.0\MyGardenApp.dll
+C:\Users\Maxmi\Documents\Github\Visual Studio\.NET Core\MyGardenApp\obj\Debug\net6.0\refint\MyGardenApp.dll
+C:\Users\Maxmi\Documents\Github\Visual Studio\.NET Core\MyGardenApp\obj\Debug\net6.0\MyGardenApp.pdb
+C:\Users\Maxmi\Documents\Github\Visual Studio\.NET Core\MyGardenApp\obj\Debug\net6.0\MyGardenApp.genruntimeconfig.cache
+C:\Users\Maxmi\Documents\Github\Visual Studio\.NET Core\MyGardenApp\obj\Debug\net6.0\ref\MyGardenApp.dll
+C:\Users\Maxmi\Documents\Github\Visual Studio\.NET Core\MyGardenApp\bin\Debug\net6.0\Figgle.dll
+C:\Users\Maxmi\Documents\Github\Visual Studio\.NET Core\MyGardenApp\obj\Debug\net6.0\MyGardenApp.csproj.CopyComplete

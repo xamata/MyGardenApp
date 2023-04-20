@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V2uTIaBgneTmDUdqgtAXiSmCI0jRUmbtIME96umpVNjp5jaaCFEIhKXCNhajMwG8sjSxaM3iRiA9K4NUEpQDHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maxmi\\Documents\\Github\\Visual Studio\\.NET Core\\MyGardenApp\\MyGardenApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maxmi\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
